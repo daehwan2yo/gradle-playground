@@ -5,6 +5,8 @@
 https://docs.gradle.org/  
 - 책  
 [엔터프라이즈 빌드 자동화를 위한 gradle, 윤석진 2015]
+- blog  
+[https://jojoldu.tistory.com/444]  
 
 # 필자 환경
 mac os, m1  
