@@ -1,6 +1,8 @@
 ## setting.gradle
 `rootProject.name` 은 빌드의 이름을 정의하며, 후에 디렉토리 생성의 디폴트값.  
 * 고정적인 이름을 선호한다.  
+<img width="903" alt="스크린샷 2022-03-09 오후 7 25 31" src="https://user-images.githubusercontent.com/26921986/157423051-354dab78-c52c-4bae-bda6-71cb3dfb8ddc.png">
+
 
 
 `include('app')` 은 현재 빌드가 실제코드와 빌드 논리를 포함하는  
@@ -16,10 +18,12 @@
 `dependencies` : 의존 받은 라이브러리들을 지정한다.  
 
 `application` : 실행을 담당할 main 클래스를 정의한다.  
+<img width="699" alt="스크린샷 2022-03-09 오후 7 25 58" src="https://user-images.githubusercontent.com/26921986/157423117-b8cc28e5-04f6-4f1d-ba9c-0b6eb9665927.png">
 
 
 # Run the application
 `./gradlew run`  
+<img width="966" alt="스크린샷 2022-03-09 오후 7 27 07" src="https://user-images.githubusercontent.com/26921986/157423324-3161f15f-931d-44e9-b8a7-245e490a044a.png">
 
 *처음 gradle을 실행하는 경우, version에 따른 설치가 진행되어 시간이 소요된다.  
 
