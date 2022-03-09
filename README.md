@@ -5,6 +5,15 @@
 https://docs.gradle.org/  
 - 책  
 [엔터프라이즈 빌드 자동화를 위한 gradle, 윤석진 2015]
+- blog  
+[https://jojoldu.tistory.com/444]  
+
+# 필자 환경
+mac os, m1  
+Monterey 12.1   
+<img width="634" alt="스크린샷 2022-03-09 오전 12 33 59" src="https://user-images.githubusercontent.com/26921986/157270774-cafcbac3-f819-4dfd-97ae-b1a60c9d4478.png">
+<img width="722" alt="스크린샷 2022-03-09 오전 12 34 16" src="https://user-images.githubusercontent.com/26921986/157270831-26bef071-f29a-4953-94a0-f53d924dcb1d.png">
+
 
 
 # gradle?
